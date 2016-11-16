@@ -2,6 +2,8 @@
 
 Bacon ipsum dolor amet drumstick capicola cow boudin pork loin. Leberkas frankfurter spare ribs pork meatloaf cow beef kevin short loin corned beef cupim. Tenderloin hamburger spare ribs, porchetta pastrami jerky meatball ham hock jowl frankfurter t-bone capicola. T-bone andouille alcatra doner bacon. Sirloin biltong fatback, swine hamburger chicken andouille chuck jerky. Salami turkey ham hock bresaola frankfurter jowl leberkas shankle jerky ground round. Doner andouille prosciutto pancetta shoulder, frankfurter turkey.
 
+![Figure 1](images\fig-01.jpg)
+
 ## A Heading (1)
 
 Tail pig ham turkey, capicola pork loin shankle filet mignon tenderloin strip steak spare ribs. Spare ribs kevin cow jowl. Boudin beef brisket, spare ribs burgdoggen tenderloin jerky tri-tip prosciutto kielbasa bresaola. Chuck spare ribs cupim sausage. Ham hock short loin prosciutto ham tri-tip porchetta. Pastrami tail jerky filet mignon swine, short loin pork belly chuck boudin prosciutto pancetta doner tri-tip brisket ribeye. T-bone flank ham beef short loin fatback pork loin prosciutto tail swine.
