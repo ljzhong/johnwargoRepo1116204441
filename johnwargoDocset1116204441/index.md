@@ -4,6 +4,36 @@ Bacon ipsum dolor amet drumstick capicola cow boudin pork loin. Leberkas frankfu
 
 ![Figure 1](images\fig-01.jpg)
 
+<div class="row">
+    <div class="col-md-4">
+        <div class="landing-block" id="alert">
+            <a href="https://aka.ms/vs/15/release/vs_enterprise.exe">
+                <i class="landing-icon fa fa-birthday-cake fa-4x" aria-hidden="true" style="color:white;"></i>
+                <div class="landing-title">Try out Visual Studio 2017 RC</div>
+            </a>
+            <div class="landing-title-2">Check out what's next: a fast and focused in-browser simulator, quick and reliable builds that just work.</div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="landing-block">
+            <a href="/en-us/docs/install-vs-tools-apache-cordova/">
+                <i class="landing-icon fa fa-download fa-4x" aria-hidden="true"></i>
+                <div class="landing-title">TACO Install Guide</div>
+            </a>
+            <div class="landing-title-2">Download the Tools for Apache Cordova with our step-by-step installation guide.</div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="landing-block">
+            <a href="/en-us/docs/get-started-first-mobile-app/">
+                <i class="landing-icon fa fa-rocket fa-4x" aria-hidden="true"></i>
+                <div class="landing-title">Beginner's Guide</div>
+            </a>
+            <div class="landing-title-2">Learn the architecture of a Cordova project by building a starter app with frameworks and services.</div>
+        </div>
+    </div>
+</div>
+
 ## A Heading (1)
 
 Tail pig ham turkey, capicola pork loin shankle filet mignon tenderloin strip steak spare ribs. Spare ribs kevin cow jowl. Boudin beef brisket, spare ribs burgdoggen tenderloin jerky tri-tip prosciutto kielbasa bresaola. Chuck spare ribs cupim sausage. Ham hock short loin prosciutto ham tri-tip porchetta. Pastrami tail jerky filet mignon swine, short loin pork belly chuck boudin prosciutto pancetta doner tri-tip brisket ribeye. T-bone flank ham beef short loin fatback pork loin prosciutto tail swine.
